@@ -11,4 +11,4 @@ Step 3: Type Streamlit run app.py
 
 Step 4: Enter
 
-Project report:[Project report.pdf](https://github.com/user-attachments/files/18718063/Project.report.pdf)
+Project report: [Project report.pdf](https://github.com/user-attachments/files/18718063/Project.report.pdf)
